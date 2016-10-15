@@ -16,8 +16,8 @@ feature-img: "img/fishtank-background.jpg"
   After that I began to research web development boot-camps, prices, location and reviews. When I was laid off from my position I decided it was a perfect time to go after my dream. 
   
   {:.center}
-![]({{ site.baseurl }}/img/think-like-programmer.jpg)
+![]({{ site.baseurl }}/img/two-states.jpg)
 
 ## Coding
 
-   The cover to this book represents how I feel. My life separated into three parts. However I have had dreams about coding. Since I began coding I've noticed that even in my free time away from it, I think about how to solve a particular problem or what could be done better. I say that in a good way because of how much I enjoy it.
+   My life separated into three parts. However I have had dreams about coding. Since I began this process I've noticed that even in my free time away from it, I think about how to solve a particular problem or what could be done better. I say that in a good way because of how much I enjoy it.

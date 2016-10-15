@@ -13,7 +13,3 @@ feature-img: "img/sea-turtle-background.jpg"
 ## Enjoy the journey
    One of the best quotes I can think of when starting a new project or topic is, "A journey of a thousand miles begins with one step." This quote always helps me keep perspective not only that anything worth doing takes time, but also that it is the journey that matters. Chances are that the way things are done now will change, different languages or different methods, but that is what makes technology and development so exciting. 
    
-   {:.center}
-![]({{ site.baseurl }}/img/mosaic.jpg)
-   
-   The picture shown is from an art exhibit in Kiev, the artist painted individual egg shells to make up the entire mosaic. The amount of time spent to complete the project must have been immense but worth it in the end.
