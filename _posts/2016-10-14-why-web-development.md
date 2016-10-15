@@ -4,7 +4,7 @@ title: Why Web Development?
 feature-img: "think-programmer.jpg"
 ---
 
-#Why Web Development
+# Why Web Development
 
   I have always had an interest in technology. From building my own computers or trying out new ROMs on my Samsung Galaxy S3. I like to know how things work. But to go from a hobby to a full-time position in technology was a scary proposition. Not the position itself but how to begin. I had heard of front-end web development boot-camps but it took a chance meeting with an engineer from NASA to convince me that boot-camps were a viable option to get my foot in the door.
   
