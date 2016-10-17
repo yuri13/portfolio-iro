@@ -16,7 +16,7 @@ feature-img: "img/fishtank-background.jpg"
   After that I began to research web development boot-camps, prices, location and reviews. When I was laid off from my position I decided it was a perfect time to go after my dream. 
   
   {:.center}
-![]({{ site.baseurl }}/img/two-states.jpg)
+![]({{ site.baseurl }}/img/think-programmer.jpg)
 
 ## Coding
 
