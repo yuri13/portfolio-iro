@@ -7,16 +7,16 @@ feature-img: "img/fishtank-background.jpg"
 ## Downtown
 
   {:.center}
-![]({{ site.baseurl }}/Users/reyes13/Downloads/Pictures/Kiev/img_0010.jpg)
+![]({{ site.baseurl }}/img/img_0007.jpg)
 
-{:.center}
-![]({{ site.baseurl }}/Users/reyes13/Downloads/Pictures/Kiev/img_0014.jpg)
+  {:.center}
+![]({{ site.baseurl }}/img/img_0010.jpg)
 
-{:.center}
-![]({{ site.baseurl }}/Users/reyes13/Downloads/Pictures/Kiev/img_0012.jpg)
+  {:.center}
+![]({{ site.baseurl }}/img/img_0011.jpg)
 
-{:.center}
-![]({{ site.baseurl }}/Users/reyes13/Downloads/Pictures/Kiev/img_0021.jpg)
+  {:.center}
+![]({{ site.baseurl }}/img/img_0012.jpg)
 
-{:.center}
-![]({{ site.baseurl }}/Users/reyes13/Downloads/Pictures/Kiev/img_0022.jpg)
+  {:.center}
+![]({{ site.baseurl }}/img/img_0013.jpg)
