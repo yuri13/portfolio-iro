@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Traveler, Amateur Mechanic, and Developer.</h1>
+     <h1>Web Developer, Amateur Traveler, and Professional Father.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>
@@ -22,20 +22,20 @@ theme_settings:
   email_address: "reyestomas13@gmail.com"
   behance:
   bitbucket:
-  dribbble: 
+  dribbble:
   facebook: "Yuri Reyes"
   flickr:
   github: "yuri13"
   google_plus:
   instagram: "yuri_13r"
-  linkedin: 
+  linkedin:
   pinterest:
   reddit:
   soundcloud:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: 
+  twitter:
   wordpress:
   youtube:
 
