@@ -6,17 +6,17 @@ feature-img: "img/fishtank-background.jpg"
 
 ## Downtown
 
-  {:.center}
+{:.center}
 ![]({{ site.baseurl }}/img/IMG_0007.jpg)
 
-  {:.center}
+{:.center}
 ![]({{ site.baseurl }}/img/IMG_0010.jpg)
 
-  {:.center}
+{:.center}
 ![]({{ site.baseurl }}/img/IMG_0011.jpg)
 
-  {:.center}
+{:.center}
 ![]({{ site.baseurl }}/img/IMG_0012.jpg)
 
-  {:.center}
+{:.center}
 ![]({{ site.baseurl }}/img/IMG_0013.jpg)
