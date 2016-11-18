@@ -6,6 +6,8 @@ feature-img: "img/fishtank-background.jpg"
 
 ## Downtown
 
+{:.center}
+![]({{ site.baseurl }}/img/blocjams1.png)
 
 ![]({{ site.baseurl }}/Users/reyes13/Desktop/img/IMG_0007.jpg)
 
