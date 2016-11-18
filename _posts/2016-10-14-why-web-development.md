@@ -16,6 +16,8 @@ feature-img: "img/IMG_0011.jpg"
 
 ![Alt text](/img/IMG_0010.jpg)
 
+{:.center}
+![]({{ site.baseurl }}/img/IMG_0012.jpg)
 
 {:.center}
 ![]({{ site.baseurl }}/img/IMG_0011.jpg)
