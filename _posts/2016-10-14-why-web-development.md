@@ -10,7 +10,12 @@ feature-img: "img/fishtank-background.jpg"
 ![]({{ site.baseurl }}/Users/reyes13/Desktop/img/IMG_0007.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/IMG_0010.jpg)
+![]({{ site.baseurl }} img/IMG_0010.jpg)
+
+feature-img: "img/IMG_0011.jpg"
+
+![Alt text](/img/IMG_0010.jpg)
+
 
 {:.center}
 ![]({{ site.baseurl }}/img/IMG_0011.jpg)
