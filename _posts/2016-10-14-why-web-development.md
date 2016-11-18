@@ -12,17 +12,16 @@ feature-img: "img/fishtank-background.jpg"
 ![]({{ site.baseurl }}/Users/reyes13/Desktop/img/IMG_0007.jpg)
 
 {:.center}
-![]({{ site.baseurl }} img/IMG_0010.jpg)
-
-feature-img: "img/IMG_0011.jpg"
-
-![Alt text](/img/IMG_0010.jpg)
+[Imgur](http://i.imgur.com/CrOzu2R.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/IMG_0012.jpg)
+[Imgur](http://i.imgur.com/5xJMJPG.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/blocjams1.png)
+[Imgur](http://i.imgur.com/9t3bq34.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/IMG_0013.jpg)
+[Imgur](http://i.imgur.com/PZaC6GY.jpg)
+
+{:.center}
+[Imgur](http://i.imgur.com/gzFGhZ0.jpg)
