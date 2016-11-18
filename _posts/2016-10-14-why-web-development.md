@@ -14,6 +14,8 @@ feature-img: "img/fishtank-background.jpg"
 
 <a href="http://imgur.com/CrOzu2R"><img src="http://i.imgur.com/CrOzu2R.jpg" title="source: imgur.com" /></a>
 
+<a href="http://imgur.com/5xJMJPG"><img src="http://i.imgur.com/5xJMJPG.jpg" title="source: imgur.com" /></a>
+
 ![]({{ site.baseurl }}/Users/reyes13/Desktop/img/IMG_0007.jpg)
 
 ![alt text](/img/IMG_0007.png "Title")
