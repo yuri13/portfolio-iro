@@ -9,6 +9,9 @@ feature-img: "img/fishtank-background.jpg"
 {:.center}
 ![]({{ site.baseurl }}/img/blocjams1.png)
 
+{:.center}
+![]({{ site.baseurl }}/img/IMG_0007.png)
+
 ![]({{ site.baseurl }}/Users/reyes13/Desktop/img/IMG_0007.jpg)
 
 {:.center}
