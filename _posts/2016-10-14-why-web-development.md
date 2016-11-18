@@ -22,10 +22,7 @@ feature-img: "img/IMG_0011.jpg"
 ![]({{ site.baseurl }}/img/IMG_0012.jpg)
 
 {:.center}
-![]({{ site.baseurl }}/img/IMG_0011.jpg)
-
-{:.center}
-![]({{ site.baseurl }}/img/IMG_0012.jpg)
+![]({{ site.baseurl }}/img/blocjams1.png)
 
 {:.center}
 ![]({{ site.baseurl }}/img/IMG_0013.jpg)
