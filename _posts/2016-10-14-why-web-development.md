@@ -16,17 +16,11 @@ feature-img: "img/fishtank-background.jpg"
 
 ![]({{ site.baseurl }}/Users/reyes13/Desktop/img/IMG_0007.jpg)
 
-{:.center}
-![Alt text](http://i.imgur.com/CrOzu2R.jpg)
+![alt text](/img/IMG_0007.png "Title")
 
-{:.center}
-[Imgur](http://i.imgur.com/5xJMJPG.jpg)
+[img]http://i.imgur.com/CrOzu2R.jpg[/img]
 
-{:.center}
-[Imgur](http://i.imgur.com/9t3bq34.jpg)
-
-{:.center}
-[Imgur](http://i.imgur.com/PZaC6GY.jpg)
+http://imgur.com/CrOzu2R
 
 {:.center}
 [Imgur](http://i.imgur.com/gzFGhZ0.jpg)
