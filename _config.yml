@@ -12,7 +12,7 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Web Developer, Amateur Traveler, and Professional Father.</h1>
+     <h1>Web Developer, Amateur Traveler, and Father.</h1>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> with <a href="https://rohanchandra.github.io/project/type/">Type Theme</a>

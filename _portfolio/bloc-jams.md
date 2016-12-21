@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Bloc-Jams
-feature-img: "https://http://i.imgur.com/D1rTFF8.png"
+feature-img: "img/fishtank-background.jpg"
 thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
 short-description: Spotify clone
 
