@@ -12,7 +12,9 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Hello! I'm Fernando Yuri Reyes. I'm a web developer based in Los Angeles, CA and/or Phoenix, AZ.</h1>
+     <h2>Hello!<h2>
+     <h3>My name is Fernando Yuri Reyes.</h3>
+     <p>I'm a web developer based in Los Angeles, CA and/or Phoenix, AZ.</p>
      <h2>About Me</h2>
      <p>I love learning about and building things for the internet.</p>
   header_text_feature_image:
